@@ -60,7 +60,7 @@ fieldset{
 .menu-mobile{
   display:none;
 }
-@media(max-width:768px){
+@media(max-width:468px){
   body{
     background-color: black;
     background-image: url('unsplash-mobile.jpg');

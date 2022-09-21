@@ -16,7 +16,7 @@ a{
 
 }
 .home{
-    margin-left: 250px;
+    margin-left: 70px;
 }
 ul{
   list-style: none;
@@ -60,6 +60,9 @@ fieldset{
 .menu-mobile{
   display:none;
 }
+
+
+
 @media only screen and (max-width:768px){
   body{
     background-color: black;
